@@ -1,0 +1,9 @@
+project/
+│
+├── app.py
+├── cli_entry.py
+├── service_registry.py
+└── services/
+    ├── __init__.py
+    ├── user_service.py
+    └── external_service.py
